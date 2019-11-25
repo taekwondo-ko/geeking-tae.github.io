@@ -41,8 +41,8 @@ logo:                  /assets/icons/Profile_Photo.jpg
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
-  name:                <Taekwon> <Rhee>
-  email:               <taekwon.2rhee@gmail.com>
+  name:                Taekwon Rhee
+  email:               taekwon.2rhee@gmail.com
   # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
