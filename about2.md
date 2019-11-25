@@ -1,26 +1,32 @@
-# 
+##Education
+
+Oct 2019 - *present*
+
+**M.Sc. Computer Science**
+
+- Technische Universität Berlin, Germany
 
 
 
-## Education
+Mar 2013 - Aug 2019
+
+**B.Sc. Computer Engineering** 
+
+- Inha University, Republic of Korea
+
+
+
+Mar 2013 - Aug 2019
+
+**B.B.A. Global Finance and Banking** at Inha University, Republic of Korea
 
 ---
 
-Oct 2019 - *present*
-**M.Sc. Computer Science** at Technische Universität Berlin, Germany
+## Employment
 
+Mar 2018 - Jan 2019
 
+**Undergraduate Research Intern** 
 
-Mar 2013 - Aug 2019
-**B.Sc. Computer Engineering** at Inha University, Republic of Korea
+Subjects: Trajectory/Sequentail Data Prediction, Data Engineering
 
-
-
-Mar 2013 - Aug 2019
-**B.B.A. Global Finance and Banking** at Inha University, Republic of Korea
-
-
-
-
-
-## Language

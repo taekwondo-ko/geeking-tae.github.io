@@ -4,7 +4,7 @@
 # IMPORTANT: Set the URL of your site.
 # Set to https://<username>.github.io when hosting on GitHub Pages
 # (unless you are using a custom domain).
-url:                   https://domain.tld
+url:                   https://geeking-tae.github.io
 
 # IMPORTANT: Set The "base URL" of your site.
 # When your site sits in a subdirectory, set to /<name of directory>
@@ -41,8 +41,8 @@ logo:                  /assets/icons/Profile_Photo.jpg
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
-  name:                <firstname> <lastname>
-  email:               <mail@domain.tld>
+  name:                <Taekwon> <Rhee>
+  email:               <taekwon.rhee@gmail.com>
   # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
