@@ -2,8 +2,8 @@
 # Must be the same as `author` in `_config.yml`.
 # Change `author1` to your shortname.
 author1:
-  name:              <Taekwon> <Rhee>
-  email:             <taekwon.rhee@gmail.com>
+  name:              Taekwon Rhee
+  email:             taekwon.2rhee@gmail.com
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
@@ -30,7 +30,7 @@ author1:
   # Rearrange to change the order in which they appear
   social:
     #twitter:         <username>
-    github:          <username>
+    github:          <geeking-tae>
     email:           <taewkon.rhee@gmail.com>
     # rss:             https://<url>/feed.xml
     # facebook:        <username>
@@ -42,7 +42,7 @@ author1:
     # spotify:         <user>/<number>
     # soundcloud:      <username>
     # lastfm:          <username>
-    # instagram:       <username>
+     instagram:       <tk.leo.rhee>
     # flickr:          <string@string>
     # 500px:           <username>
     # dribbble:        <username>
