@@ -3,19 +3,13 @@
 # Change `author1` to your shortname.
 author1:
   name:              Taekwon Rhee
-  email:             taekwon.2rhee@gmail.com
+  email:             taekwon.rhee@gmail.com
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
     Hello this is a test.
 
-    [Download Free][kit]
-    -- or --
-    [Buy PRO][buy]
-
-    [kit]: https://github.com/qwtel/hydejack-starter-kit/archive/v8.1.1.zip
-    [buy]: https://app.simplegoods.co/i/NATYVLYT
 
   # This photo will be used in the about section
   picture:
@@ -42,7 +36,7 @@ author1:
     # spotify:         <user>/<number>
     # soundcloud:      <username>
     # lastfm:          <username>
-    #instagram:       <tk.leo.rhee>
+    instagram:         tk.leo.rhee
     # flickr:          <string@string>
     # 500px:           <username>
     # dribbble:        <username>
