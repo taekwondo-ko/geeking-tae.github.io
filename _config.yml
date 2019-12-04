@@ -50,10 +50,12 @@ author:
 menu:
   - title:             Home
     url:               /hydejack/
-  - title:             Living
-    url:               /hyde/
   - title:             Posts
     url:               /docs/
+  - title:             Life
+    url:               /lifes/
+  - title:             Photo
+    url:               /photos/
   - title:             About
     url:               /about2/
 
@@ -80,7 +82,7 @@ paginate_path:         /page-:num/
 # ========================================================================================
 
 # Sidebar image and theme color of the site.
-accent_image:          /assets/img/sidebar-bg.jpg
+accent_image:          /assets/img/blog/steve-harvey.jpg
 accent_color:          rgb(79,177,186)
 
 # This is used for the `theme-color` meta tag,
