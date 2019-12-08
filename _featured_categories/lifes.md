@@ -1,7 +1,7 @@
 ---
 layout: list
 title: Life
-slug: life
+slug: lifes
 menu: true
 order: 1
 description: >
