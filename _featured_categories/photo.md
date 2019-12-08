@@ -4,13 +4,10 @@ title: Photo
 slug: photo
 menu: true
 order: 1
-description: >
-  This is a default Photo page which is under test. \n
-  > 
+description: >  
+  This is a default Photo page which is under test.  
   순간을 기록합니다.  
-  >
-  Love every moment.
-  >
+  Love every moment.  
 
 ---
 
