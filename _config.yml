@@ -49,7 +49,7 @@ author:
 menu:
   - title:             Home
     url:               /home/
-  - title:             Posts
+  - title:             Study
     url:               /study/
   - title:             Life
     url:               /lifes/
@@ -103,7 +103,7 @@ font_heading:          Roboto Slab, Helvetica, Arial, sans-serif
 
 defaults:
   - scope:
-      path:            hydejack
+      path:            home #hydejack
     values:
       accent_color:    rgb(38,139,210)
       accent_image:
