@@ -1,4 +1,5 @@
 ---
+layout: post
 title: test second
 image: /assets/img/sidebar-bg.jpg
 description: >
