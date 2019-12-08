@@ -1,5 +1,5 @@
 ---
-layout: list
+layout: post
 title: test first
 slug: lifes
 menu: true
