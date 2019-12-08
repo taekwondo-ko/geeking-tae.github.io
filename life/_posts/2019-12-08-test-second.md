@@ -1,7 +1,7 @@
 ---
 layout: post
 title: test second
-slug: lifes
+slug: life
 image: /assets/img/sidebar-bg.jpg
 description: >
   	test second, A caption for an image.

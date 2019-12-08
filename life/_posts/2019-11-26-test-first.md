@@ -1,7 +1,7 @@
 ---
 layout: post
 title: test first
-slug: lifes
+slug: life
 description: >
   test first
 ---

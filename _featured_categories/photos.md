@@ -1,7 +1,7 @@
 ---
 layout: list
-title: Photos
-slug: photos
+title: Photo
+slug: photo
 menu: true
 order: 1
 description: >
