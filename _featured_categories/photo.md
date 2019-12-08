@@ -13,3 +13,7 @@ description: >
   >
 
 ---
+
+순간을 기록합니다.  
+Love every moment.  
+ddd  
