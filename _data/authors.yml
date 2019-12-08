@@ -8,10 +8,9 @@ author1:
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    경험을 기록합니다. ||
-  |  berlin   
-    
-    독일, 베를린에서 머무는 공학도.
+    경험을 기록합니다.  
+  
+    독일, 베를린에서 머무는 공학도.  
 
 
   # This photo will be used in the about section
