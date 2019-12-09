@@ -1,7 +1,7 @@
 ---
 # file: !my-blog.md
 title: My Blog
-menu: true
+menu: false
 permalink: /photo/
 sitemap: false
 ---
