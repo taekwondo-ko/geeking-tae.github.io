@@ -5,9 +5,9 @@ slug: photo
 menu: true
 order: 1
 description: >  
-  Ich ___ also bin ich | 
-  순간을 기록합니다 | 
-  Love every moment
+  Ich ___ also bin ich
+  | 순간을 기록합니다
+  | Love every moment
 
 ---
 
