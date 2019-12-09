@@ -1,7 +1,7 @@
 ---
 layout: post
-title: photo test 1
+title: Starlight
 slug: photo
 description: >
-  this is photo test 1
 ---
+[_DSC0636](/assets/img/blog/photo/_DSC0634.jpg)
