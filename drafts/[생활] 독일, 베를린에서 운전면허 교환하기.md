@@ -26,7 +26,7 @@ description: >
 
 자세히 알아보도록 하겠습니다.
 
-###  
+
 
 ### 1. 번역인증
 
@@ -38,7 +38,7 @@ description: >
 
 필자는 베를린에 거주하기 때문에, 주독 대한민국 대사관 영사부를 방문하였습니다. 만약 독일 내 다른 지역이라면 관할지역 내 가까운 곳으로 가시면 됩니다. 독일 내의 대사관/영사관(부)는 다음과 같습니다.:
 
-- 주독 대한민국 대사관 영사부: http://overseas.mofa.go.kr/de-ko/index.do
+- 주독 대한민국 대사관 영사부: <http://overseas.mofa.go.kr/de-ko/index.do>
 - 주 프랑크푸르트 총영사관
 - 주 함부르크 총영사관
 - 주 본 분관 영사부
@@ -51,12 +51,12 @@ description: >
 
 
 
-#####1.2. 지참 서류
+##### 1.2. 지참 서류
 
 - 대한민국 운전면허증 원본 (카드형)
 - 운전면허증 독일어 번역본
 	- 아래 주소에서 번역본을 다운받아 자기 정보에 맞게 번역
-	- http://overseas.mofa.go.kr/de-ko/brd/m_7195/view.do?seq=742220&srchFr=&amp;srchTo=&amp;srchWord=&amp;srchTp=&amp;multi_itm_seq=0&amp;itm_seq_1=0&amp;itm_seq_2=0&amp;company_cd=&amp;company_nm=&page=1
+	- <http://overseas.mofa.go.kr/de-ko/brd/m_7195/view.do?seq=742220&srchFr=&amp;srchTo=&amp;srchWord=&amp;srchTp=&amp;multi_itm_seq=0&amp;itm_seq_1=0&amp;itm_seq_2=0&amp;company_cd=&amp;company_nm=&page=1>
 - 여권
 - 수수료: 3,44€/부 (현금만 가능)
 
@@ -64,7 +64,7 @@ description: >
 
 
 
-#####1.3. 인증(공증본) 수령
+##### 1.3. 인증(공증본) 수령
 
 베를린에 위치한 주독 대한민국 대사관 영사부에서는 당일로 인증업무를 완료할 수 있었습니다. 
 
