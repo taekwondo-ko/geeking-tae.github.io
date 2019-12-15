@@ -105,9 +105,9 @@ defaults:
   - scope:
       path:            /home #hydejack
     values:
-      accent_color:    rgb(38,139,210)
+      accent_color:    rgb(15,76,129)
       accent_image:
-        background:    rgb(32,32,32)
+        background:    rgb(15,76,129)
         overlay:       false
 
   # `jekyll-seo-tag` will mark collection outputs as `BlogPosting`,
